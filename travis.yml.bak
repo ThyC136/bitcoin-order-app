@@ -11,6 +11,7 @@ notifications:
       - yihang.chia@ncs.com.sg
     on_success: always
     on_failure: always
+    
 branches:
   only:
    - development
